@@ -10,9 +10,7 @@
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
 - [Acknowledgments](#acknowledgments)
-- [Got Feedback for Me?](#got-feedback-for-me)
 
 ## Overview
 
